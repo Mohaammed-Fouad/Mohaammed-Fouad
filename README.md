@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Mohammed Fouad  
 
-<img align="right" alt="Molecule animation" width="300" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png"> <!-- Replace with a cheminformatics / molecule gif -->
+<img align="right" alt="Molecule animation" width="200" src="https://github.com/Mohaammed-Fouad/Mohaammed-Fouad/blob/main/M%20(1).png?raw=true">
+ <!-- Replace with a cheminformatics / molecule gif -->
 
 🔬 **Post-graduate scientist** with research foundations in **QSAR, cheminformatics, and molecular modeling** for drug discovery.  
 💻 Skilled in **Python, RDKit, and machine learning** workflows.  
