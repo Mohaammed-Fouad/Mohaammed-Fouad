@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋, I'm Mohammed Fouad  
 
-<!--
-**Mohaammed-Fouad/Mohaammed-Fouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Molecule animation" width="300" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png"> <!-- Replace with a cheminformatics / molecule gif -->
 
-Here are some ideas to get you started:
+🔬 **Post-graduate scientist** with research foundations in **QSAR, cheminformatics, and molecular modeling** for drug discovery.  
+💻 Skilled in **Python, RDKit, and machine learning** workflows.  
+🧪 Hands-on experience with **experimental antimicrobial evaluation**.  
+🚀 Passionate about **developing computational tools to accelerate drug design**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech & Tools
+- **Programming:** Python, R (learning), Git/GitHub  
+- **Libraries:** RDKit, scikit-learn, pandas, NumPy, Matplotlib  
+- **Domains:** Cheminformatics, QSAR modeling, Molecular docking, Medicinal chemistry    
+
+---
+
+## 📂 Featured Projects
+- 🔹 **[QSAR Modeling Tool](#)** → Machine learning workflow for predicting antiinflammatory activity.  
+- 🔹 **[Cheminformatics Yield Calculator](#)** → Prototype tool to compute theoretical reaction yields from SMILES + weights.  
+- 🔹 **[Molecular Docking Studies](#)** → Comparative review of quinoline derivatives with docking + SAR insights.  
+*(More coming soon!)*  
+
+---
+
+## 📖 Current Focus
+- Preparing review papers on **chitosan** and **guanidine derivatives** as anticancer agents.  
+- Learning **cheminformatics** and expanding into **computational drug design**.  
+- Building open-source projects for the cheminformatics community.  
+
+---
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn](https://linkedin.com/mohammed-fouad-🇵🇸-73701a135) 
+---
+
+⭐️ From [Mohammed Fouad](https://github.com/Mohaammed-Fouad)
+
