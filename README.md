@@ -18,8 +18,8 @@
 ---
 
 ## 📂 Featured Projects
-- 🔹 **[QSAR Modeling Tool](#)** → Machine learning workflow for predicting antiinflammatory activity.  
-- 🔹 **[Cheminformatics Yield Calculator](#)** → Prototype tool to compute theoretical reaction yields from SMILES + weights.  
+- 🔹 **[QSAR Modeling Tool](https://github.com/Mohaammed-Fouad/Activity_prediction_against_aromatase_ChEMBL1978)** → Machine learning workflow for predicting anticancer activity.  
+- 🔹 **[Cheminformatics Yield Calculator](https://github.com/Mohaammed-Fouad/Theoritical_yield_calculator)** → Prototype tool to compute theoretical reaction yields from SMILES + weights.  
 - 🔹 **[Molecular Docking Studies](#)** → Comparative review of quinoline derivatives with docking + SAR insights.  
 *(More coming soon!)*  
 
