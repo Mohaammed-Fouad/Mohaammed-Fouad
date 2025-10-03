@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mohammed Fouad  
 
-<img align="right" alt="Molecule animation" width="190" src="https://github.com/Mohaammed-Fouad/Mohaammed-Fouad/blob/main/M%20(1).png?raw=true">
+<img align="right" alt="Molecule animation" width="190" src="https://github.com/Mohaammed-Fouad/my-portfolio/blob/main/Photos/M%20(2).png?raw=true">
 
 
 🔬 **Post-graduate scientist** with research foundations in **QSAR, cheminformatics, and molecular modeling** for drug discovery.  
