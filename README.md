@@ -37,7 +37,7 @@ I am a researcher specializing in the intersection of **Medicinal** and **Comput
 | **Computational & AI** | **Materials & Lab** | **Tools & Workflow** |
 | :--- | :--- | :--- |
 | 🐍 Python (RDKit, Scikit-Learn) | ⚗️ Organic Synthesis (CMRDI/EPRI) | 🧬 GROMACS (Molecular Dynamics) |
-| 🤖 Machine Learning | 🧲 MOF/Nanocomposite Synthesis | Gnina, Vina and Pymol |
+| 🤖 Machine Learning | 🧲 MOF/Nanocomposite Synthesis | 🧬 Gnina, Vina and Pymol |
 | 📊 QSAR Modeling & Data Curation | 🔬 Chemosensing & Characterization | 🐧 Linux |
 
 ---
